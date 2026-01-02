@@ -1,3 +1,11 @@
+.rubik-text {
+  font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
 #topLeftLargeText {
   text-align: center;
+  font-family: rubik-text;
 }
