@@ -1,0 +1,1 @@
+const musicButton = document.getElementById("musicBool")
